@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fuzawaa
-- 👀 I’m interested in game making
-- 🌱 I’m currently learning c c++ python
+- 👀 I’m interested in game and machine learning
+- 🌱currently learning c c++ c# 
 
 
 
